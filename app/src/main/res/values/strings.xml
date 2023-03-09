@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Checkmark</string>
+    <string name="task">All tasks completed</string>
+</resources>
